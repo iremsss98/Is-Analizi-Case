@@ -1,4 +1,4 @@
-# İş Analizi ve Süreç Tasarımı Vaka Çalışması: Paynet & ttec
+# İş Analizi ve Süreç Tasarımı Vaka Çalışması: Paynet
 
 ## Proje Özeti
 Bu proje, 30.000'den fazla işletmenin finansal süreçlerini dijitalleştiren ve Merkez Bankası lisanslı bir finansal teknoloji şirketi olan Paynet'in ödeme sistemleri altyapısı üzerinden gerçekleştirilmiş bir iş analizi vaka çalışmasıdır. Çalışma kapsamında 'ttec' firmasının satış süreçleri incelenmiş ve müşteri deneyimini iyileştirmeye yönelik sistem gereksinimleri analiz edilmiştir.
